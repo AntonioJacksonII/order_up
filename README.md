@@ -28,10 +28,6 @@ Instructions
 * Commit Frequently
 * Push your code to your fork once the time is up (not before!)
 
-Story 2 of 3
-As a visitor
-When I visit a dish's show page
-I see the total calorie count for that dish.
 
 Story 3 of 3
 As a visitor
