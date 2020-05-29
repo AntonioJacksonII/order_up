@@ -9,6 +9,7 @@ describe "Dish show page" do
       visit "/dishes/#{pizza.id}"
 
       expect(page).to have_content("Ratatouille")
+      expect(page).to have_content("Ingredients: Dough, cheese")
     end
   end
 end
