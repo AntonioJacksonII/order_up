@@ -28,11 +28,6 @@ Instructions
 * Commit Frequently
 * Push your code to your fork once the time is up (not before!)
 
-Story 1 of 3
-As a visitor
-When I visit a dish's show page
-I see a list of ingredients for that dish
-
 Story 2 of 3
 As a visitor
 When I visit a dish's show page
